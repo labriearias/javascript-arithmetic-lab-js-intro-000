@@ -3,4 +3,4 @@
   return a + b
  }
 
-console.log(add(900 + 50));
+console.log(add(900, 50));
