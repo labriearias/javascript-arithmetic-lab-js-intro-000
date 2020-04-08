@@ -25,4 +25,6 @@ function decrement(n) {
   return --n
 }
 
-parseInt(n);
+parseInt(n) {
+  return n
+}
