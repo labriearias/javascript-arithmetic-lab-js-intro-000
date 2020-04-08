@@ -25,6 +25,4 @@ function decrement(n) {
   return --n
 }
 
-parseInt(n, 10) {
-  return n
-}
+makeInt(string)
